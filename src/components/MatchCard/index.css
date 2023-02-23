@@ -1,0 +1,28 @@
+/* Write your CSS here */
+.matchCard-cont {
+  background-color: #1e293b;
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 400px;
+  width: 25%;
+  margin: 3px;
+  padding: 24px;
+}
+.match-card-image {
+  width: 80%;
+}
+.text-green {
+  color: #18ed66;
+}
+.text-red {
+  color: #e31a1a;
+}
+.competing-team {
+  color: #ffffff;
+}
+.match-result {
+  color: #ffffff;
+}

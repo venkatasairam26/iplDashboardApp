@@ -1,0 +1,27 @@
+/* Write your CSS here */
+.team-match-cont {
+  background-image: linear-gradient(to top, #1e293b, #a4261d, #d91c1f);
+  padding: 30px;
+}
+.banner-image-url {
+  width: 100%;
+}
+.latest-match-cont {
+  display: flex;
+  justify-content: space-between;
+  padding: 12px;
+  align-items: center;
+  background-color: #1e293b;
+  border: 2px solid #f26d22;
+}
+.latest-match-image {
+  width: 30%;
+}
+.ul-list-cont {
+  display: flex;
+  align-items: center;
+  padding-left: 0px;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  width: 100%;
+}
